@@ -1,0 +1,7 @@
+-  npm i redux redux-devtools-extension react-redux
+- create folder redux -> reducer, action, & type
+- create counterReducer & setup
+- create counterAction & setup
+- create RouteReducer file  & setup
+- create store & setup export to index.js
+- sent store by Provider
